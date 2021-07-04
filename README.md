@@ -10,4 +10,7 @@ This sheet includes only the bare essentials required for combat and stuff:
 
 1. Paste the following link into Foundry's module installer: `https://raw.githubusercontent.com/maxbucknell/5e-slim-character-sheet/main/module.json`
 2. Enable the module in your world
-3. The sheet can either be set as the default sheet for characters, or used on a per-actor basis.
+3. The sheet can either be set as the default sheet for characters, or used on a per-actor basis:
+
+![The sheet settings in Foundry VTT](https://raw.githubusercontent.com/maxbucknell/5e-slim-character-sheet/main/enable-sheet.jpg)
+
