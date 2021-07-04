@@ -1,21 +1,21 @@
 {
-"name": "slim-character-sheet-5e",
-"title": "Slim Character Sheet in 5e",
-"description": "This module adds a character sheet for 5e that does not include character details, only the bare minimum required for combat. Useful if you keep your character elsewhere (D&D Beyond, Paper, etc. I'm not gonna tell you how to live your life.)",
-"version": "1.0.1",
-"author": "maxbucknell",
-"systems": ["dnd5e"],
-"esmodules": ["/slim-character-sheet.js"],
-"styles": ["/css/slim-character-sheet.css"],
-"languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-],
-"url": "https://github.com/maxbucknell/5e-slim-character-sheet",
-"manifest": "https://raw.githubusercontent.com/maxbucknell/5e-slim-character-sheet/main/module.json",
-"download": "https://github.com/maxbucknell/5e-slim-character-sheet/archive/main.zip",
-"compatibleCoreVersion": "0.8.8"
+    "name": "slim-character-sheet-5e",
+    "title": "Slim Character Sheet in 5e",
+    "description": "This module adds a character sheet for 5e that does not include character details, only the bare minimum required for combat. Useful if you keep your character elsewhere (D&D Beyond, Paper, etc. I'm not gonna tell you how to live your life.)",
+    "version": "1.0.1",
+    "author": "maxbucknell",
+    "systems": ["dnd5e"],
+    "esmodules": ["/slim-character-sheet.js"],
+    "styles": ["/css/slim-character-sheet.css"],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ],
+    "url": "https://github.com/maxbucknell/5e-slim-character-sheet",
+    "manifest": "https://raw.githubusercontent.com/maxbucknell/5e-slim-character-sheet/main/module.json",
+    "download": "https://github.com/maxbucknell/5e-slim-character-sheet/archive/main.zip",
+    "compatibleCoreVersion": "0.8.8"
 }
