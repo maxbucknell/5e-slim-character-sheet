@@ -18,6 +18,7 @@ export class SlimCharacterSheet extends OriginalCharacterSheet {
 }
 
 Actors.registerSheet("dnd5e", SlimCharacterSheet, {
-    types: ["character"],
+    types: ['character'],
+    label: 'MPWBSC5E.SheetClassCharacterSlim',
     makeDefault: false
 })
